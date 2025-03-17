@@ -1,0 +1,5 @@
+UserID,TradeAmount,Timestamp,LoginAttempts
+User1,100,2023-10-01 10:00 AM,1
+User2,500,2023-10-01 11:00 AM,2
+User3,10000,2023-10-01 12:00 PM,5
+User4,200,2023-10-01 01:00 PM,1

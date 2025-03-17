@@ -1,0 +1,10 @@
+1.Research Security Practices:
+
+    Open Firefox in Kali and search:
+        “How to secure user data in web applications” (e.g., encryption, 2FA, audits).
+        “Common vulnerabilities in trading platforms” (e.g., OWASP Top 10).
+2.Write suggestions:
+
+    “Encrypt user data using AES-256.”
+    “Implement 2FA for logins.”
+    “Regularly monitor logs for suspicious activity.”
